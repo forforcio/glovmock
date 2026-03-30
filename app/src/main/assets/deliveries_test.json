@@ -1,0 +1,93 @@
+[
+  {
+    "id": "d-001",
+    "restaurantName": "Bite Burger",
+    "restaurantAddress": "15 River St",
+    "restaurantType": "burger"
+  },
+  {
+    "id": "d-002",
+    "restaurantName": "Mamma Pizza",
+    "restaurantAddress": "82 Market Ave",
+    "restaurantType": "pizza"
+  },
+  {
+    "id": "d-003",
+    "restaurantName": "Sushi Corner",
+    "restaurantAddress": "9 Sakura Rd",
+    "restaurantType": "sushi"
+  },
+  {
+    "id": "d-004",
+    "restaurantName": "Green Bowl",
+    "restaurantAddress": "41 Lake View",
+    "restaurantType": "healthy"
+  },
+  {
+    "id": "d-005",
+    "restaurantName": "Taco House",
+    "restaurantAddress": "27 Sunset Blvd",
+    "restaurantType": "burger"
+  },
+  {
+    "id": "d-006",
+    "restaurantName": "Napoli Slice",
+    "restaurantAddress": "101 Grand Ave",
+    "restaurantType": "pizza"
+  },
+  {
+    "id": "d-007",
+    "restaurantName": "Ocean Roll",
+    "restaurantAddress": "44 Harbor Dr",
+    "restaurantType": "sushi"
+  },
+  {
+    "id": "d-008",
+    "restaurantName": "Daily Greens",
+    "restaurantAddress": "12 Clover St",
+    "restaurantType": "healthy"
+  },
+  {
+    "id": "d-009",
+    "restaurantName": "Smash Station",
+    "restaurantAddress": "7 Baker Lane",
+    "restaurantType": "burger"
+  },
+  {
+    "id": "d-010",
+    "restaurantName": "Pizza Port",
+    "restaurantAddress": "66 East End",
+    "restaurantType": "pizza"
+  },
+  {
+    "id": "d-011",
+    "restaurantName": "Tokyo Street",
+    "restaurantAddress": "53 Bamboo Ave",
+    "restaurantType": "sushi"
+  },
+  {
+    "id": "d-012",
+    "restaurantName": "Harvest Kitchen",
+    "restaurantAddress": "19 Meadow Rd",
+    "restaurantType": "healthy"
+  },
+  {
+    "id": "d-013",
+    "restaurantName": "Burger District",
+    "restaurantAddress": "8 Midtown Pl",
+    "restaurantType": "burger"
+  },
+  {
+    "id": "d-014",
+    "restaurantName": "Roma Oven",
+    "restaurantAddress": "135 Park St",
+    "restaurantType": "pizza"
+  },
+  {
+    "id": "d-015",
+    "restaurantName": "Sakura Box",
+    "restaurantAddress": "22 Willow Way",
+    "restaurantType": "sushi"
+  }
+]
+
